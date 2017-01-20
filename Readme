@@ -1,0 +1,21 @@
+//Submitted to Devcon Devise 2017
+//(c) Hack Ganern!
+// Myron Dizon
+// L.A. Licerio
+// 3rd year BSIS, IICS, UST
+
+//Project Summary
+//Grabcross is basically a combination of Grab and rescue services. 
+//It is envisioned to be used in disaster zones wherein in victims 
+//can use the app to broadcast SOS signals from their phone and the 
+//app picks up the signals and rescuers can attend the victims accordingly. 
+
+//Project Description 
+//Grabcross is built upon Google Maps API and is envisioned to be able 
+//to send and pick up signals through the use of a mobile device. 
+//During the development, it is built upon HTML/CSS/Javascript and 
+//will use App.js for it to become mobile-ready.  
+
+//Project Plans
+//As of development, the features haven't been integrated with each other. 
+//Marker.html is used to 
